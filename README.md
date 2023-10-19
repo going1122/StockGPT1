@@ -1,2 +1,2 @@
-# Document_loader
-將資料轉成向量並儲存
+# StockGPT
+股票分析機器人
